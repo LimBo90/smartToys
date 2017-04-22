@@ -1,0 +1,30 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x532C4792)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\system_TM4C123.c)(0x58580DB2)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I..\Project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_BLIZZARD_RB1 -DTM4C1231H6PM-o .\system_tm4c123.o --omf_browse .\system_tm4c123.crf --depend .\system_tm4c123.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h)(0x532C4878)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C1231H6PM.h)(0x532C4878)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C4C22)
+I (C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C4878)
+F (.\source.c)(0x58CB0910)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I..\Project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_BLIZZARD_RB1 -DTM4C1231H6PM-o .\source.o --omf_browse .\source.crf --depend .\source.d)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
+I (driverlib/adc.h)(0x58580D64)
+I (inc/hw_memmap.h)(0x58580D98)
+I (inc/hw_nvic.h)(0x58580D98)
+I (driverlib/sysctl.h)(0x58580D96)
+I (driverlib/gpio.h)(0x58580D6C)
+I (driverlib/uart.h)(0x58580D96)
+I (driverlib/pin_map.h)(0x58580D6C)
+I (driverlib/interrupt.h)(0x58580D6C)
+I (driverlib/systick.h)(0x58580D96)
+I (driverlib/timer.h)(0x58580D96)
+I (inc/tm4c123gh6pm.h)(0x58580DAA)
+F (.\driverlib\rvmdk\driverlib.lib)(0x58580D94)()
